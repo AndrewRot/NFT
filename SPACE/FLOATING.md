@@ -2,6 +2,12 @@
 
 
 
+<p align="center" width="100%">
+    <img width="50%" src="NFT1.gif"> 
+</p>
+
+
+
 This is the first NFT I minted. The animation was created using Adobe Animation Studio, programmed in ActionScript II and was part of an interactive music visual set that was used to perform alongside house DJs in San Fransisco, CA in 2020.
 
 
