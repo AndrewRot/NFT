@@ -12,4 +12,4 @@ This is the first NFT I minted. The animation was created using Adobe Animation 
 
 
 
-This is the first release of part of the collection. The fully interactive visual set includes various programmable, keyboard controlable attributes such as star speed and direction, earth rotation and spin, orbiting planets and much more.
+This is the first release of part of the collection. The fully interactive visual set includes various programmable, keyboard controllable attributes such as star speed and direction, earth rotation and spin, orbiting planets and much more.
